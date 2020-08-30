@@ -10,4 +10,6 @@ Current functionalities include:
 * Play on strict mode, where if a wrong button is pressed, the game ends.
 
 
+CHECK IT OUT HERE: https://raktacos10-simonsays.netlify.app/
+
 ENJOYYYY
