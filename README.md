@@ -1,4 +1,4 @@
-# Simon Game
+# Simon Says
 Play a game of Simon.
 
 
